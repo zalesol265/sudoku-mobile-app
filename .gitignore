@@ -1,0 +1,9 @@
+# Compiled Python files
+*.pyc
+*.cfg
+__pycache__/
+
+node_modules/
+.expo/
+Lib/
+Scripts/
